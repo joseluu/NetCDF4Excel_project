@@ -4,16 +4,16 @@ LIBRARY      "VbNc"
 DESCRIPTION  'NetCDF For Excel Windows Dynamic Link Library'
 
 EXPORTS
-	nc__create<br/>
-	nc_create<br />
-	nc__open<br />
-	nc_open<br />
-	nc_set_fill<br />
-	nc_redef<br />
-	nc__enddef<br />
-	nc_enddef<br />
-	nc_sync<br />
-	nc_abort<br />
+	nc__create
+	nc_create
+	nc__open
+	nc_open
+	nc_set_fill
+	nc_redef
+	nc__enddef
+	nc_enddef
+	nc_sync
+	nc_abort
 	nc_close
 	nc_inq
 	nc_inq_ndims
